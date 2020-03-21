@@ -18,19 +18,4 @@ $ npm install
 $ ng serve
 ```
 
-## Run Node Server
-
-```
-$ cd backend
-$ npm install
-```
-
-## Run MongoDB
-```
-$ mongod
-```
-
-## Run Nodemon
-```
-$ nodemon
-```
+ 
